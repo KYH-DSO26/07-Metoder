@@ -11,4 +11,7 @@
   <Project Path="10 Standardmeddelande/10 Standardmeddelande.csproj" />
   <Project Path="11 Säker sifferläsare/11 Säker sifferläsare.csproj" />
   <Project Path="12 Textformateraren/12 Textformateraren.csproj" />
+  <Project Path="13 Referensmodifiering/13 Referensmodifiering.csproj" />
+  <Project Path="14 Det flexibla prissyatemet/14 Det flexibla prissyatemet.csproj" />
+  <Project Path="15 Rekursiv nedräkning/15 Rekursiv nedräkning.csproj" />
 </Solution>
