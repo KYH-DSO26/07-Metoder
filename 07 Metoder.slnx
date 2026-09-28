@@ -5,4 +5,10 @@
   <Project Path="04 Temperaturtips/04 Temperaturtips.csproj" />
   <Project Path="05 Tärningskastet/05 Tärningskastet.csproj" />
   <Project Path="06 Kvittobyggaren/06 Kvittobyggaren.csproj" />
+  <Project Path="07 Säker textinmatning/07 Säker textinmatning.csproj" />
+  <Project Path="08 Validera e-post/08 Validera e-post.csproj" />
+  <Project Path="09 Betygskalkylatorn/09 Betygskalkylatorn.csproj" />
+  <Project Path="10 Standardmeddelande/10 Standardmeddelande.csproj" />
+  <Project Path="11 Säker sifferläsare/11 Säker sifferläsare.csproj" />
+  <Project Path="12 Textformateraren/12 Textformateraren.csproj" />
 </Solution>
