@@ -2,4 +2,7 @@
   <Project Path="01 Hälsningsroboten/01 Hälsningsroboten.csproj" />
   <Project Path="02 Skriv Linje/02 Skriv Linje.csproj" />
   <Project Path="03 Personlig hälsning/03 Personlig hälsning.csproj" />
+  <Project Path="04 Temperaturtips/04 Temperaturtips.csproj" />
+  <Project Path="05 Tärningskastet/05 Tärningskastet.csproj" />
+  <Project Path="06 Kvittobyggaren/06 Kvittobyggaren.csproj" />
 </Solution>
